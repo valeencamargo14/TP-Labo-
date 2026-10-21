@@ -11,7 +11,7 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 
 | Nombre y apellido | N° de registro | Usuario de GitHub |
 |---|---|---|
-| | | |
+| Valentino Camargo | 921481 | valeencamargo14 |
 | | | |
 | | | |
 | | | |
