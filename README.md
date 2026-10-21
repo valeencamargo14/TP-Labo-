@@ -12,10 +12,10 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 | Nombre y apellido | N° de registro | Usuario de GitHub |
 |---|---|---|
 | Valentino Camargo | 921481 | valeencamargo14 |
-| | | |
-| | | |
-| | | |
-| | | |
+| Pedro Bautista Semo Orsi  | 921656 | Pedro-Semo |
+| Martín Ezequiel Raber | 921594 | Tinchoraber |
+| Emilio Ezequiel Waisman | 921466 | emiwaisman |
+| Francisco Tomas Beronich | 922255 | beronichfrancisco |
 
 ## Contenido del repositorio
 
