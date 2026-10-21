@@ -27,10 +27,9 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 
 ## Datos
 
-- Transferencias: Transfermarkt, vía Kaggle (`davidcariboo/player-scores`).
-- Tabla de posiciones: FBref, Premier League 2005-06 y 2025-26.
+- Gastos por temporada: Transfermarkt (https://www.transfermarkt.com.ar/premier-league/einnahmenausgaben/wettbewerb/GB1)
+- Tabla de posiciones de cada temporada: Transfermarkt (https://www.transfermarkt.com/premier-league/tabelle/wettbewerb/GB1/)
 
-*(Completar con la fecha de descarga y cualquier ajuste realizado.)*
 
 ## Cómo reproducir el análisis
 
