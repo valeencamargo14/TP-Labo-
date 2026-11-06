@@ -27,6 +27,7 @@ Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones · 
 | `Datasets/` | Los dos datasets en CSV (posiciones y gastos, 2005-06 a 2025-26). |
 | `Graficos/` | Gráficos exportados desde el notebook en formato PNG. |
 | `Informe/` | Informe académico en PDF y link al proyecto de Overleaf (LaTeX). |
+| `Presentacion/` | Diapositivas de la defensa en PDF. |
 
 ## Datos
 
